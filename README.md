@@ -5,10 +5,8 @@ This is a public copy of a private repository from a colleague. [Here](https://g
 
 Credits to:
 
-Davide Trenti (Dev)
+Davide Trenti (Dev, Design)
 
-Francesco Schembri (Dev)
+Giovanni Forcelli (Dev, Design)
 
-Serena Bonamigo (2D)
-
-Roberto Fornaro (Design, Music)
+Fabiola Polidoro (3D)
